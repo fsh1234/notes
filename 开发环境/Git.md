@@ -50,3 +50,7 @@ Host gitlab.com
   PreferredAuthentications publickey
   IdentityFile ~/.ssh/gitlab
 ```
+
+## PuTTY
+
+当使用TortoiseGit时最好使用PuTTY工具来认证，PuTTY是一个远程的SSH客户端。通过PuTTYgen移动鼠标生成以.ppk结尾的PuTTY密钥，复制好公钥放入git服务器中就可以开始使用了。如果TortoiseGit未初始化，可以通过常规设置和远端凭证配置
