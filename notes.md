@@ -2,7 +2,7 @@
 
 ## 运行环境
 
-[jdk下载]http://jdk.java.net/13/
+[jdk下载](http://jdk.java.net/13/)
 
 ## Linux
 
